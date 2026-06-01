@@ -1,0 +1,93 @@
+{
+    "id": 2495241,
+    "requests": [
+        {
+            "id": 4168585,
+            "location": {
+                "telescope_class": "4m0"
+            },
+            "configurations": [
+                {
+                    "id": 14811742,
+                    "constraints": {
+                        "max_airmass": 1.6,
+                        "min_lunar_distance": 30.0,
+                        "max_lunar_phase": 1.0,
+                        "max_seeing": null,
+                        "min_transparency": null,
+                        "extra_params": {}
+                    },
+                    "instrument_configs": [
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "r"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        }
+                    ],
+                    "acquisition_config": {
+                        "mode": "OFF",
+                        "exposure_time": null,
+                        "extra_params": {}
+                    },
+                    "guiding_config": {
+                        "optional": true,
+                        "mode": "ON",
+                        "optical_elements": {},
+                        "exposure_time": null,
+                        "extra_params": {}
+                    },
+                    "target": {
+                        "type": "ICRS",
+                        "name": "test2",
+                        "ra": 151.197,
+                        "dec": 7.801,
+                        "proper_motion_ra": 0.0,
+                        "proper_motion_dec": 0.0,
+                        "parallax": 0.0,
+                        "epoch": 2000.0,
+                        "extra_params": {}
+                    },
+                    "instrument_type": "BLANCO_DECAM",
+                    "type": "EXPOSE",
+                    "extra_params": {
+                        "detector_centering": "S4"
+                    },
+                    "priority": 1
+                }
+            ],
+            "windows": [
+                {
+                    "start": "2026-04-21T23:45:00Z",
+                    "end": "2026-04-22T00:30:00Z"
+                }
+            ],
+            "duration": 713,
+            "observation_note": "",
+            "optimization_type": "TIME",
+            "state": "PENDING",
+            "suspend_until": null,
+            "modified": "2026-04-21T20:27:19.068207Z",
+            "created": "2026-04-21T20:27:19.068214Z",
+            "acceptability_threshold": 90.0,
+            "configuration_repeats": 1,
+            "extra_params": {}
+        }
+    ],
+    "submitter": "tahumada",
+    "name": "test2",
+    "observation_type": "NORMAL",
+    "operator": "SINGLE",
+    "ipp_value": 1.05,
+    "created": "2026-04-21T20:27:19.066054Z",
+    "state": "PENDING",
+    "modified": "2026-04-21T20:27:19.066067Z",
+    "proposal": "2025B-240381"
+}

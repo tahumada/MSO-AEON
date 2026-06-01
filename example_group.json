@@ -1,0 +1,200 @@
+{
+    "id": 2495238,
+    "requests": [
+        {
+            "id": 4168582,
+            "location": {
+                "telescope_class": "4m0"
+            },
+            "configurations": [
+                {
+                    "id": 14811736,
+                    "constraints": {
+                        "max_airmass": 1.6,
+                        "min_lunar_distance": 30.0,
+                        "max_lunar_phase": 1.0,
+                        "max_seeing": null,
+                        "min_transparency": null,
+                        "extra_params": {}
+                    },
+                    "instrument_configs": [
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "g"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        },
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "r"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        },
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "z"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        }
+                    ],
+                    "acquisition_config": {
+                        "mode": "OFF",
+                        "exposure_time": null,
+                        "extra_params": {}
+                    },
+                    "guiding_config": {
+                        "optional": true,
+                        "mode": "ON",
+                        "optical_elements": {},
+                        "exposure_time": null,
+                        "extra_params": {}
+                    },
+                    "target": {
+                        "type": "ICRS",
+                        "name": "test",
+                        "ra": 140.185,
+                        "dec": 9.594,
+                        "proper_motion_ra": 0.0,
+                        "proper_motion_dec": 0.0,
+                        "parallax": 0.0,
+                        "epoch": 2000.0,
+                        "extra_params": {}
+                    },
+                    "instrument_type": "BLANCO_DECAM",
+                    "type": "EXPOSE",
+                    "extra_params": {
+                        "detector_centering": "S4"
+                    },
+                    "priority": 1
+                },
+                {
+                    "id": 14811737,
+                    "constraints": {
+                        "max_airmass": 1.6,
+                        "min_lunar_distance": 30.0,
+                        "max_lunar_phase": 1.0,
+                        "max_seeing": null,
+                        "min_transparency": null,
+                        "extra_params": {}
+                    },
+                    "instrument_configs": [
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "g"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        },
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "r"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        },
+                        {
+                            "exposure_time": 40.0,
+                            "optical_elements": {
+                                "filter": "z"
+                            },
+                            "mode": "default",
+                            "exposure_count": 1,
+                            "rotator_mode": "",
+                            "extra_params": {
+                                "offset_ra": 0,
+                                "offset_dec": 0
+                            }
+                        }
+                    ],
+                    "acquisition_config": {
+                        "mode": "OFF",
+                        "exposure_time": null,
+                        "extra_params": {}
+                    },
+                    "guiding_config": {
+                        "optional": true,
+                        "mode": "ON",
+                        "optical_elements": {},
+                        "exposure_time": null,
+                        "extra_params": {}
+                    },
+                    "target": {
+                        "type": "ICRS",
+                        "name": "test",
+                        "ra": 142.456004166667,
+                        "dec": 9.472,
+                        "proper_motion_ra": 0.0,
+                        "proper_motion_dec": 0.0,
+                        "parallax": 0.0,
+                        "epoch": 2000.0,
+                        "extra_params": {}
+                    },
+                    "instrument_type": "BLANCO_DECAM",
+                    "type": "EXPOSE",
+                    "extra_params": {
+                        "detector_centering": "S4"
+                    },
+                    "priority": 2
+                }
+            ],
+            "windows": [
+                {
+                    "start": "2026-04-21T23:45:00Z",
+                    "end": "2026-04-22T00:30:00Z"
+                }
+            ],
+            "duration": 1874,
+            "observation_note": "",
+            "optimization_type": "TIME",
+            "state": "PENDING",
+            "suspend_until": null,
+            "modified": "2026-04-21T20:03:47.782618Z",
+            "created": "2026-04-21T20:03:47.782627Z",
+            "acceptability_threshold": 90.0,
+            "configuration_repeats": 1,
+            "extra_params": {}
+        }
+    ],
+    "submitter": "tahumada",
+    "name": "test",
+    "observation_type": "NORMAL",
+    "operator": "SINGLE",
+    "ipp_value": 1.05,
+    "created": "2026-04-21T20:03:47.767558Z",
+    "state": "PENDING",
+    "modified": "2026-04-21T20:03:47.767571Z",
+    "proposal": "2025B-240381"
+}
