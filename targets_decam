@@ -1,4 +1,4 @@
-sourceID,ra,dec,filters
+sourceID,ra,dec,filters,exptime
 ZTF25acfxvcu,0.646663,-3.710376,gri,30 30 30
 ZTF24aatlsjq,1.277942,29.962589,gri,30 60 90
 ZTF25abqvssg,2.797111,1.804104,grz,30 120 90
