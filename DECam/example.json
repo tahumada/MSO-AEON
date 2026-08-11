@@ -46,7 +46,7 @@
                     },
                     "target": {
                         "type": "ICRS",
-                        "name": "test2",
+                        "name": "",
                         "ra": 151.197,
                         "dec": 7.801,
                         "proper_motion_ra": 0.0,
@@ -82,7 +82,7 @@
         }
     ],
     "submitter": "",
-    "name": "test2",
+    "name": "",
     "observation_type": "NORMAL",
     "operator": "SINGLE",
     "ipp_value": 1.05,
