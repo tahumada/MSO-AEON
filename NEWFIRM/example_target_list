@@ -1,0 +1,9 @@
+sourceID,ra,dec,filters,dither,sequences
+ZTF25acfxvcu,0.646663,-3.710376,JHK,2x2,1
+ZTF24aatlsjq,1.277942,29.962589,JHK,5-point,2
+ZTF25abqvssg,2.797111,1.804104,JHK,3x3,1
+ZTF24aaymkrs,3.089388,31.063407,JHK,4x4,1
+ZTF24aawklme,3.090119,17.794190,J,5-point,3
+ZTF25abjjlgl,5.021151,8.511636,HK,5-point,1
+ZTF24aboafrj,5.466447,9.255386,JK,5-point,1
+ZTF25aaqqjud,5.723418,46.144067,JH,5-point,1
