@@ -11,4 +11,4 @@ Feedback is welcomed!
 Please direct your questions to tomas.ahumada@noirlab.edu 
 
 to-do:
-add tutorial to convert json to AEON requests
+add tutorial to convert json to AEON requests, for individual and for the ones offeset
