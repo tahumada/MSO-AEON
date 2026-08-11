@@ -47,8 +47,8 @@
                     "target": {
                         "type": "ICRS",
                         "name": "",
-                        "ra": ,
-                        "dec": ,
+                        "ra": 0,
+                        "dec": 0,
                         "proper_motion_ra": 0.0,
                         "proper_motion_dec": 0.0,
                         "parallax": 0.0,
