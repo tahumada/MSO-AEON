@@ -46,9 +46,9 @@
                     },
                     "target": {
                         "type": "ICRS",
-                        "name": "test2",
-                        "ra": 151.197,
-                        "dec": 7.801,
+                        "name": "",
+                        "ra": ,
+                        "dec": ,
                         "proper_motion_ra": 0.0,
                         "proper_motion_dec": 0.0,
                         "parallax": 0.0,
@@ -82,12 +82,12 @@
         }
     ],
     "submitter": "",
-    "name": "test2",
+    "name": "",
     "observation_type": "NORMAL",
     "operator": "SINGLE",
     "ipp_value": 1.05,
     "created": "2026-04-21T20:27:19.066054Z",
     "state": "PENDING",
     "modified": "2026-04-21T20:27:19.066067Z",
-    "proposal": "2025B-240381"
+    "proposal": ""
 }
