@@ -8,3 +8,5 @@ The tutorials are:
 
 Feedback is welcomed!
 Please direct your questions to tomas.ahumada@noirlab.edu 
+
+to-do: add individual submission
