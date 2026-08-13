@@ -7,6 +7,6 @@ The tutorials are:
 2. Submit targets from a list (example list provided)
 
 Feedback is welcomed!
-Please direct your questions to tomas.ahumada@noirlab.edu 
+Please direct your questions to tomas.ahumada at noirlab dot edu 
 
 to-do: add individual submission
