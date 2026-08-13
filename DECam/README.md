@@ -8,7 +8,7 @@ The tutorials are:
 3. Submit targets from a SISPI-compatible json file (example json provided)
 
 Feedback is welcomed!
-Please direct your questions to tomas.ahumada@noirlab.edu 
+Please direct your questions to tomas.ahumada at noirlab dot edu 
 
 to-do:
 add tutorial to convert json to AEON requests, for individual and for the ones offeset
