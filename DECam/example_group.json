@@ -14,6 +14,20 @@
         "dec": -33.7261111111111
     },
     {
+        "object": "F2m1",
+        "program": "shadow",
+        "expType": "object",
+        "note": "None",
+        "comment": "2025B-589422, Fornax pointings",
+        "wait": "False",
+        "proposer": "Sand, David",
+        "propid": "2025B-589422",
+        "filter": "g",
+        "exptime": 120,
+        "RA": 54.2654861111111,
+        "dec": -33.7261111111111
+    },
+    {
         "object": "F1m1",
         "program": "shadow",
         "expType": "object",
@@ -84,7 +98,7 @@
         "dec": -36.68975
     },
   {
-        "object": "F4m1",
+        "object": "F6m1",
         "program": "shadow",
         "expType": "object",
         "note": "None",
