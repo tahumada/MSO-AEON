@@ -22,5 +22,5 @@ Before running any of the tutorials, you must have the following:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/your-organization/aeon-target-submission.git](https://github.com/your-organization/aeon-target-submission.git)
-cd aeon-target-submission
+git clone git@github.com:tahumada/MSO-AEON.git
+cd MSO-AEON
